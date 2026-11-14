@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://meharkumargupta.com.np/</loc>
+    <image:image>
+      <image:loc>https://meharkumargupta.com.np/assets/mehar-kumar-gupta-portrait.jpg</image:loc>
+      <image:title>Mehar Kumar Gupta</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://meharkumargupta.com.np/assets/mehar-kumar-gupta-about.jpg</image:loc>
+      <image:title>Mehar Kumar Gupta</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://meharkumargupta.com.np/assets/mehar-kumar-gupta-ambition.jpg</image:loc>
+      <image:title>Mehar Kumar Gupta</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://meharkumargupta.com.np/assets/mehar-kumar-gupta-gallery.jpg</image:loc>
+      <image:title>Mehar Kumar Gupta</image:title>
+    </image:image>
+  </url>
+</urlset>
